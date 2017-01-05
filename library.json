@@ -1,0 +1,18 @@
+{
+  "name": "SimpleKalmanFilter",
+  "keywords": "kalman, filter, linear, quadratic, estimation, LQE",
+  "description": "A basic implementation of Kalman Filter for single variable models.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denyssene/SimpleKalmanFilter.git"
+  },
+  "version": "0.1.0",
+  "authors": {
+    "name": "Denys Sene",
+    "url": ""
+  },
+  "exclude": [
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}
