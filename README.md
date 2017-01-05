@@ -19,7 +19,7 @@ Basic Usage
 -------------------
  * **e_mea: Measurement Uncertainty** - How much do we expect to our measurement vary 
  * **e_est: Estimation Uncertainty**  - Can be initilized with the same value as e_mea since the kalman filter will adjust its value.
- * **q: Process Noise** - usually a small number between 0.001 and 1 - how fast your measurement moves. Recommended 0.01.
+ * **q: Process Variance** - usually a small number between 0.001 and 1 - how fast your measurement moves. Recommended 0.01. Should be tunned to your needs.
  
 ```c++
 
