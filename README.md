@@ -1,4 +1,4 @@
-Simple Kalman Filter Library
+Simple Kalman Filter Library - [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)]() [![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)]() [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star&style=plastic)]()
 ========================================
 
  ![KalmanFilter](images/kalman_filter_example_1.png)
