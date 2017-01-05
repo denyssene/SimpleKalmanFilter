@@ -1,4 +1,4 @@
-Simple Kalman Filter Library - [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)]() [![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)]() [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star&style=plastic)]()
+Simple Kalman Filter Library - [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://raw.githubusercontent.com/denyssene/SimpleKalmanFilter/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/denyssene/SimpleKalmanFilter.svg?style=plastic)](https://github.com/denyssene/SimpleKalmanFilter/stargazers) [![GitHub issues](https://img.shields.io/github/issues/denyssene/SimpleKalmanFilter.svg?style=plastic)](https://github.com/denyssene/SimpleKalmanFilter/issues)
 ========================================
 
  ![KalmanFilter](images/kalman_filter_example_1.png)
