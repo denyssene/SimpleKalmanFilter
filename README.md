@@ -7,6 +7,8 @@ This is a basic kalman filter library for single variable models, like barometri
 
 * Take a look in this [video on youtube](https://www.youtube.com/watch?v=4Q5kJ96YYZ4) to see the Kalman Filter working on a stream of values!
 
+*Special thanks to Professor Michel van Biezen and his amazing work in http://www.ilectureonline.com/*
+
 Repository Contents
 -------------------
 
