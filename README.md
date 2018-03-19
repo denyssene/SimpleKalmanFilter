@@ -3,9 +3,9 @@ Simple Kalman Filter Library - [![GitHub license](https://img.shields.io/badge/l
 
  ![KalmanFilter](images/kalman_filter_example_1.png)
 
-This is a basic kalman filter library for single variable models, like barometric sensors, temperature sensors and any stream of values that do not requires a multidimensional model.
+This is a basic kalman filter library for unidimensional models that you can use with a stream of single values like barometric sensors, temperature sensors or even gyroscope and accelerometers.
 
-* Take a look in this [video on youtube](https://www.youtube.com/watch?v=4Q5kJ96YYZ4) to see the Kalman Filter working on a stream of values!
+* Take a look at this [youtube video](https://www.youtube.com/watch?v=4Q5kJ96YYZ4) to see the Kalman Filter working on a stream of values!
 
 *Special thanks to Professor Michel van Biezen and his amazing work in http://www.ilectureonline.com/*
 
