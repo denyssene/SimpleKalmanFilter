@@ -17,6 +17,7 @@ public:
   void setEstimateError(float est_e);
   void setProcessNoise(float q);
   float getKalmanGain();
+  float getEstimateError();
 
 private:
   float _err_measure;
