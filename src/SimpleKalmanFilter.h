@@ -1,4 +1,4 @@
-/* 
+/*
  * SimpleKalmanFilter - a Kalman Filter implementation for single variable models.
  * Created by Denys Sene, January, 1, 2017.
  * Released under MIT License - see LICENSE file for details.
@@ -7,7 +7,7 @@
 #ifndef SimpleKalmanFilter_h
 #define SimpleKalmanFilter_h
 
-class SimpleKalmanFilter 
+class SimpleKalmanFilter
 {
 
 public:
@@ -17,7 +17,8 @@ public:
   void setEstimateError(float est_e);
   void setProcessNoise(float q);
   float getKalmanGain();
-  
+  float getEstimateError();
+
 private:
   float _err_measure;
   float _err_estimate;
@@ -25,7 +26,7 @@ private:
   float _current_estimate;
   float _last_estimate;
   float _kalman_gain;
-  
+
 };
 
 #endif
