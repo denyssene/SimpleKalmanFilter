@@ -23,9 +23,9 @@ private:
   float _err_measure;
   float _err_estimate;
   float _q;
-  float _current_estimate;
-  float _last_estimate;
-  float _kalman_gain;
+  float _current_estimate = 0;
+  float _last_estimate = 0;
+  float _kalman_gain = 0;
 
 };
 
