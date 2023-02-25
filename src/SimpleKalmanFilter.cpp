@@ -19,7 +19,7 @@ float SimpleKalmanFilter::updateEstimate(float mea)
 {
   _kalman_gain = _err_estimate/(_err_estimate + _err_measure);
   _current_estimate = _last_estimate + _kalman_gain * (mea - _last_estimate);
-  _err_estimate =  (1.0 - _kalman_gain)*_err_estimate + fabs(_last_estimate-_current_estimate)*_q;
+  _err_estimate =  (1.0f - _kalman_gain)*_err_estimate + fabsf(_last_estimate-_current_estimate)*_q;
   _last_estimate=_current_estimate;
 
   return _current_estimate;
