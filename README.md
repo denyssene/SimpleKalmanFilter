@@ -63,3 +63,5 @@ This is an _**open source**_ project!
 Please review the LICENSE.md file for license information. 
 
 If you have any questions or concerns on licensing, please contact denys.sene@gmail.com.
+
+_** Knowledge belongs to the people. **_
